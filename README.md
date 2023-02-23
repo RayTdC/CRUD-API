@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF1&size=40&center=true&vCenter=true&width=1000&lines=++PROJETO++FINAL++DO++MÓDULO++5)](https://git.io/typing-svg)
 
+<h3> 📍OQUE SIGNIFICA CRUD?: </h3>
+📚CRUD significa Criar, Ler, Atualizar e Excluir. Com essa explicação já é possível entender que o CRUD é um conjunto de funções do sistema que trabalham com um banco de dados, seja ele na sua máquina ou na nuvem.
 
 
 <h4 id="Sobre" align="center">PARA INICIAR O SERVIDOR UTILIZE O SEGUINTE COMANDO:<h4>
