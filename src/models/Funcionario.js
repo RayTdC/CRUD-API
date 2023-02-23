@@ -1,11 +1,15 @@
 const { Model, DataTypes } = require('sequelize');
 
-class Funcionario {
-    constructor(id, nome, CPF, endereco) {
-        this.id = id
-        this.nome = nome
-        this.CPF = CPF
-        this.endereco = endereco
+class Funcionario extends Model {
+    static init(sequelize) {
+        return super.init({
+            nome: DataTypes.STRING,
+            cpf: DataTypes.STRING,
+            senha: DataTypes.STRING,
+        }, {
+            sequelize,
+        });
     }
 }
-module.exports = Funcionario
+
+module.exports = Funcionario;

@@ -3,6 +3,7 @@ const UsuarioController = require('./controllers/UsuarioController');
 const FornecedorController = require('./controllers/FornecedorController');
 const EnderecoController = require('./controllers/EnderecoController');
 const ProdutoController = require('./controllers/ProdutoController');
+const FuncionarioController = require('./controllers/FuncionarioController');
 
 
 
@@ -36,5 +37,13 @@ routes.get('/enderecos', EnderecoController.index);
 routes.post('/enderecos', EnderecoController.store);
 routes.put('/enderecos/:id', EnderecoController.update);
 routes.delete('/enderecos/:id', EnderecoController.delete);
+
+//rotas dos funcionários ↓
+
+routes.get('/funcionarios', FuncionarioController.index);
+routes.get('/funcionarios/:id', FuncionarioController.show);
+routes.post('/funcionarios', FuncionarioController.store);
+routes.put('/funcionarios/:id', FuncionarioController.update);
+routes.delete('/funcionarios/:id', FuncionarioController.delete);
 
 module.exports = routes;
