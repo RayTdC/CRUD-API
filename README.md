@@ -22,3 +22,16 @@
 ![usuarios](https://user-images.githubusercontent.com/112557800/221090929-e69bb905-06e7-40ff-a526-fece5282f736.jpeg)
 
 ![funcionarios](https://user-images.githubusercontent.com/112557800/221091001-823b84ac-ad2a-448c-b747-94f25ea466fa.jpeg)
+
+  
+  <h3>  As rotas desenvolvidas para as entidades: </h3>
+
+⇨ Listagem de todos os registros
+
+⇨ Listagem de um único registro com base em um parâmetro de rota
+  
+⇨ Inserção de um registro
+  
+⇨ Modificação de um registro
+  
+⇨ Deleção de um registro
