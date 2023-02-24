@@ -8,6 +8,17 @@ module.exports = {
             return res.json(enderecos); //retorna todos os endereços
         },
 
+        async show(req, res) {
+            const { id } = req.params;
+            const endereco = await Endereco.findByPk(id);
+          
+            if (!endereco) {
+              return res.status(400).json({ error: "Endereço não existe" });
+            }
+          
+            return res.json(endereco);
+          },
+          
         async store(req, res) {
             const { cidade, bairro, cep, casa } = req.body;
     

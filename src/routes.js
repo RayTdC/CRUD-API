@@ -27,6 +27,7 @@ routes.delete('/fornecedores/:id', FornecedorController.delete);
 //rotas dos produtos ↓
 
 routes.get('/produtos', ProdutoController.index);
+routes.get('/produtos/:id', ProdutoController.show);
 routes.post('/produtos', ProdutoController.store);
 routes.put('/produtos/:id', ProdutoController.update);
 routes.delete('/produtos/:id', ProdutoController.delete);
@@ -34,6 +35,7 @@ routes.delete('/produtos/:id', ProdutoController.delete);
 //rotas dos endereços ↓
 
 routes.get('/enderecos', EnderecoController.index);
+routes.get('/enderecos/:id', EnderecoController.show);
 routes.post('/enderecos', EnderecoController.store);
 routes.put('/enderecos/:id', EnderecoController.update);
 routes.delete('/enderecos/:id', EnderecoController.delete);
