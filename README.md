@@ -37,6 +37,19 @@
 ⇨ Deleção de um registro
 
   
+  ## 🚀 Tecnologias:
+
+<ul>
+    <li>🖥️ Visual Studio Code;</li>
+    <li>🐱‍👤 GitHub;</li>
+    <li>🟢 Node.js;</li>
+    <li>👾 Sequelize;</li>
+    <li>🚅 Express;</li>
+    <li>👿 Nodemon;</li>
+    <li>🗄️ SQLite;</li>
+    <li>📦 NPM para instalação de pacotes;</li>
+ </ul>
+  
   <div align="center">
   <h2>DESENVOLVEDORES⬇️</h2>
   
