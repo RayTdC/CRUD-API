@@ -15,7 +15,8 @@ o tema. Cada integrante do grupo ficou responsável por implementar uma dessas e
 
 
 <h4 id="Sobre" align="center">PARA INICIAR O SERVIDOR UTILIZE O SEGUINTE COMANDO:<h4>
- <h4 id="Sobre" align="center"> (npm run dev)<h4>
+ <h4 id="Sobre" align="center">- Baixar as dependências (npm install)<h4>
+ <h4 id="Sobre" align="center">- Rodar servidor (npm run dev)<h4>
 
 ![servidor](https://user-images.githubusercontent.com/112560788/220970353-b20b82fd-0a08-41f0-aa40-81db3e9ac0e8.gif)
 
