@@ -59,14 +59,14 @@ ORMs são ferramentas que permitem que os desenvolvedores trabalhem com bancos d
   ## 🚀 Tecnologias:
 
 <ul>
-    <li>🖥️ Visual Studio Code;</li>
-    <li>🐱‍👤 GitHub;</li>
-    <li>🟢 Node.js;</li>
-    <li>👾 Sequelize;</li>
-    <li>🚅 Express;</li>
-    <li>👿 Nodemon;</li>
-    <li>🗄️ SQLite;</li>
-    <li>📦 NPM para instalação de pacotes;</li>
+    <li> Visual Studio Code;</li>
+    <li> GitHub;</li>
+    <li> Node.js;</li>
+    <li> Sequelize;</li>
+    <li> Express;</li>
+    <li> Nodemon;</li>
+    <li> SQLite;</li>
+    <li> NPM para instalação de pacotes;</li>
  </ul>
   
   <div align="center">
