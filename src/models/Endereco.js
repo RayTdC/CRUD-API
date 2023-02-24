@@ -6,7 +6,7 @@ class Endereco extends Model {
             cidade: DataTypes.STRING,
             bairro: DataTypes.STRING,
             cep: DataTypes.STRING,
-            casa: DataTypes.STRING
+            casa: DataTypes.INTEGER
         }, {
             sequelize,
         })
