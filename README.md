@@ -1,5 +1,15 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF1&size=40&center=true&vCenter=true&width=1000&lines=++PROJETO++FINAL++-++MÓDULO++5)](https://git.io/typing-svg)
 
+## 📍 Objetivo do Projeto
+Projeto em grupo módulo 5. 
+Recebemos uma proposta onde o objetivo é desenvolver propostas de APIs que serão
+o MVP (Produto Mínimo Viável) de um aplicativo. 
+<br>No projeto foi definido quais as entidades necessárias e compatíveis com
+o tema. Cada integrante do grupo ficou responsável por implementar uma dessas entidades.
+
+
+
+
 <h3> 📍O QUE SIGNIFICA CRUD? </h3>
 📚CRUD significa Criar, Ler, Atualizar e Excluir. Com essa explicação já é possível entender que o CRUD é um conjunto de funções do sistema que trabalham com um banco de dados, seja ele na sua máquina ou na nuvem.
 
