@@ -6,7 +6,7 @@ const ProdutoController = require('./controllers/ProdutoController');
 const FuncionarioController = require('./controllers/FuncionarioController');
 
 
-
+//rotas de usuários ↓
 
 const routes = express.Router();
 
