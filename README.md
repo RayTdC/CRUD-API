@@ -41,3 +41,15 @@
   <h2>DESENVOLVEDORES⬇️</h2>
   
 ![desenvolvedores](https://user-images.githubusercontent.com/112557800/221098302-c22091a8-238a-4e20-8bf2-e14dcda61b03.jpeg)
+
+## GitHub:
+
+ Felipe Barros: https://github.com/felipebarr0os
+ 
+ Rannyelle: https://github.com/Rannyelle
+ 
+ Raísha: https://github.com/RayTdC
+ 
+ Ester Ramos: https://github.com/EsterM99
+ 
+ Andrielly Souza: https://github.com/andrielly157
