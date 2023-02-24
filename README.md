@@ -13,11 +13,12 @@
 
 <h3> 📍Entidades do Banco de Dados: </h3>
 
-![endereço](https://user-images.githubusercontent.com/112560788/220988163-d99254b3-5d90-46f9-86c5-1b392cb0fcb1.png)
+![end](https://user-images.githubusercontent.com/112557800/221090574-9ecf9bf9-c0d8-4c73-98fa-029390bcece8.jpeg)
 
-![fornecedores](https://user-images.githubusercontent.com/112560788/220988371-b4ce58f8-ae1c-49a0-9303-641bfa37a3fa.png)
+![fornecedores](https://user-images.githubusercontent.com/112557800/221090748-f262740c-b9d4-4349-a933-89c8eb8fbdd1.jpeg)
 
+![produtos](https://user-images.githubusercontent.com/112557800/221090831-c0c16f49-be8c-424d-acfc-113b6af12f1d.jpeg)
 
-![produtos](https://user-images.githubusercontent.com/112560788/220988493-f963bffd-663b-4640-bc7e-2e47083e6a1e.png)
+![usuarios](https://user-images.githubusercontent.com/112557800/221090929-e69bb905-06e7-40ff-a526-fece5282f736.jpeg)
 
-![usuarios](https://user-images.githubusercontent.com/112560788/220988807-e3ded694-6358-45fb-94c8-6ba92db81b8b.png)
+![funcionarios](https://user-images.githubusercontent.com/112557800/221091001-823b84ac-ad2a-448c-b747-94f25ea466fa.jpeg)
