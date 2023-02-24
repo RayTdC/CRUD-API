@@ -4,7 +4,7 @@ module.exports = {
     async index(req, res) {
         const Fornecedores = await Fornecedor.findAll();
 
-        return res.json(Fornecedores); //retorna todos os/Fornecedores
+        return res.json(Fornecedores); //retorna todos os Fornecedores
     },
 
     async show(req, res) {
