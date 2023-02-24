@@ -47,6 +47,15 @@ o tema. Cada integrante do grupo ficou responsável por implementar uma dessas e
 ⇨ Deleção de um registro
 
   
+  ## 📍 O que é Sequelize?
+  Sequelize é um ORM para Node.js que oferece uma maneira fácil e flexível de trabalhar com bancos de dados relacionais. Com o Sequelize, os desenvolvedores podem definir modelos de dados usando uma sintaxe simples e expressiva, e manipular esses modelos usando métodos orientados a objetos em vez de escrever código SQL manualmente.
+  
+  ## 📍 O que é um ORM?
+  ORM significa Object-Relational Mapping (Mapeamento Objeto-Relacional, em tradução livre) e é uma técnica de programação utilizada para mapear objetos em um sistema orientado a objetos em tabelas em um banco de dados relacional.
+
+ORMs são ferramentas que permitem que os desenvolvedores trabalhem com bancos de dados relacionais usando linguagens de programação orientadas a objetos. O objetivo é eliminar a necessidade de escrever código SQL manualmente para acessar o banco de dados, tornando o processo mais eficiente e menos propenso a erros.
+
+
   ## 🚀 Tecnologias:
 
 <ul>
