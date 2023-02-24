@@ -35,3 +35,7 @@
 ⇨ Modificação de um registro
   
 ⇨ Deleção de um registro
+
+  
+  
+![desenvolvedores](https://user-images.githubusercontent.com/112557800/221098302-c22091a8-238a-4e20-8bf2-e14dcda61b03.jpeg)
