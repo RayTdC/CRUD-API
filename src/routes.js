@@ -6,9 +6,9 @@ const ProdutoController = require('./controllers/ProdutoController');
 const FuncionarioController = require('./controllers/FuncionarioController');
 
 
-//rotas de usuários ↓
-
 const routes = express.Router();
+
+//rotas de usuários ↓
 
 routes.get('/usuarios', UsuarioController.index);
 routes.get('/usuarios/:id', UsuarioController.show);
