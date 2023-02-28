@@ -16,6 +16,5 @@ app.listen(port, ()=>{
 /* 
 * EXTENSÕES:
 * Thunder Client > pra usar e testar o CRUD
-* JSON Viewrs no Google Chrome > pro JSON ficar bonitinho no navegador
 * SQLITE > App pra ver as tabelas
 */
